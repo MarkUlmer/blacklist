@@ -2,11 +2,22 @@
 # This adlist file are personal additions.
 # ===============================================================
 
-0.0.0.0 acdn.adnxs.com
-0.0.0.0 audex.userreport.com
-0.0.0.0 ib.mookie1.com
-0.0.0.0 pre-usermatch.targeting.unrulymedia.com
-0.0.0.0 sync.spotim.market
-0.0.0.0 t.a3cloud.net
-0.0.0.0 tpsc-ue1.doubleverify.com
-0.0.0.0 uat-net.technoratimedia.com
+0.0.0.0 b.cdnst.net
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 cdn.id5-sync.com
+0.0.0.0 config.aps.amazon-adsystem.com
+0.0.0.0 diffuser-cdn.app-us1.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 idx.liadm.com
+0.0.0.0 lexicon.33across.com
+0.0.0.0 play.google.com
+0.0.0.0 prism.app-us1.com
+0.0.0.0 rp.liadm.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 trackcmp.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.gstatic.com
