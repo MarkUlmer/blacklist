@@ -21,3 +21,15 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.gstatic.com
+
+0.0.0.0 ara.paa-reporting-advertising.amazon
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 cookie-matching.mediarithmics.com
+0.0.0.0 dpm.demdex.net
+0.0.0.0 ib.adnxs.com
+0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 uipglob.semasio.net
+0.0.0.0 ups.analytics.yahoo.com
