@@ -1,0 +1,12 @@
+# Title: MarkUlmer/backlist/adlist.txt
+# This adlist file are personal additions.
+# ===============================================================
+
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 audex.userreport.com
+0.0.0.0 ib.mookie1.com
+0.0.0.0 pre-usermatch.targeting.unrulymedia.com
+0.0.0.0 sync.spotim.market
+0.0.0.0 t.a3cloud.net
+0.0.0.0 tpsc-ue1.doubleverify.com
+0.0.0.0 uat-net.technoratimedia.com
